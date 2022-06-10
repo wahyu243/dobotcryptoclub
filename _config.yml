@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dobotcrypto.xyz" # the base hostname & protocol for your site
 
 facebook_username: dobotcryptoclub
-github_username: wahyu243
+github_username: wahyu243/dobotcryptoclub
 
 # Build settings
 markdown: kramdown
